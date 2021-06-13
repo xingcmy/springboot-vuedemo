@@ -1,0 +1,18 @@
+2021-06-12 23:10:46.091  INFO 6344 --- [main] c.x.s.SpringBootVueDemoApplication       : Starting SpringBootVueDemoApplication using Java 14.0.1 on LAPTOP-BCPSRR5J with PID 6344 (D:\Myc Program\java\springbootvuedemo\target\classes started by 霂雨晨 in D:\Myc Program\java\springbootvuedemo)
+2021-06-12 23:10:46.093  INFO 6344 --- [main] c.x.s.SpringBootVueDemoApplication       : No active profile set, falling back to default profiles: default
+2021-06-12 23:10:46.487  INFO 6344 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-06-12 23:10:46.513  INFO 6344 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21 ms. Found 1 JPA repository interfaces.
+2021-06-12 23:10:46.790  INFO 6344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8181 (http)
+2021-06-12 23:10:46.794  INFO 6344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-12 23:10:46.794  INFO 6344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-12 23:10:46.872  INFO 6344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-12 23:10:46.872  INFO 6344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 748 ms
+2021-06-12 23:10:46.916  INFO 6344 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-06-12 23:10:46.981  INFO 6344 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-06-12 23:10:47.399  INFO 6344 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-06-12 23:10:47.532  WARN 6344 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-06-12 23:10:47.700  INFO 6344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8181 (http) with context path ''
+2021-06-12 23:10:47.707  INFO 6344 --- [main] c.x.s.SpringBootVueDemoApplication       : Started SpringBootVueDemoApplication in 1.881 seconds (JVM running for 2.289)
+2021-06-12 23:12:11.373  INFO 6344 --- [http-nio-8181-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-12 23:12:11.373  INFO 6344 --- [http-nio-8181-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-12 23:12:11.374  INFO 6344 --- [http-nio-8181-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
